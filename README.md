@@ -1,24 +1,14 @@
-# densitymap
+# 销售图表Test
 
-## Project setup
-```
-npm install
-```
+## 地图板块
+1. 显示中国地图
+2. 通过不同颜色反应售卖数量
+3. 鼠标指向有tip展示
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+### 柱状图板块
+1.由高到低排序
 
-### Compiles and minifies for production
-```
-npm run build
-```
 
-### Lints and fixes files
-```
-npm run lint
-```
+### 折线图板块
+1.展示单个区域时间段内的业务情况
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
